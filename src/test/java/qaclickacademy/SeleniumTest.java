@@ -13,6 +13,7 @@ public void BrowserAutomation()
 public void elementui()
 {
 	System.out.println("Ui Elements");
+	System.out.println("Ui");
 }
 }
 
