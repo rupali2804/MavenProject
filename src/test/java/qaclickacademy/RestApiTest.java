@@ -11,6 +11,7 @@ public class RestApiTest {
 @Test
 public void Twitter() {
 	System.out.println("Twitter");
+}
 	
 	@Test
 	public void RestApi() {
