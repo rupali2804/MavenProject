@@ -20,5 +20,8 @@ public class AppiumTest {
 	public void IOS()
 	{
 		System.out.println("IOS");
+		System.out.println("IOS1");
+		System.out.println("IOS2");
+		
 	}
 }
