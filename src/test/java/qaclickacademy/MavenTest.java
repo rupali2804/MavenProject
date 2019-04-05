@@ -2,7 +2,7 @@ package qaclickacademy;
 
 import org.testng.annotations.Test;
 
-public class SeleniumTest {
+public class MavenTest {
 @Test
 public void BrowserAutomation()
 {
